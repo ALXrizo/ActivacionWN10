@@ -2,7 +2,7 @@
 
 NOTA: Tener en cuenta, el Script funciona perfectamente en sistemas operativos recién instalados o ya instalados con o sin activación previa y que cuenten con la ISO oficial y original descargada desde la misma página de Microsoft con sus respectivas actualizaciones desde Windows Update. 
 
-*PARA QUE FUNCIONE SE DEBE PRIMERO EXTRAER O DESCOMPRIMIR EL ARCHIVO Y LUEGO SI EJECUTARLO COMO ADMINISTARDOR NO EJECUTAR DESDE DENTRO DEL ARCHIVO COMPRIMIDO O RAR.
+*PARA QUE FUNCIONE SE DEBE PRIMERO EXTRAER O DESCOMPRIMIR EL ARCHIVO Y LUEGO SI EJECUTARLO COMO ADMINISTARDOR NO EJECUTAR DESDE DENTRO DEL ARCHIVO COMPRIMIDO O ZIP.
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
 Si tienes WINDOWS 10 HOME y quieres pasar a WINDOWS 10 PRO lo puedes hacer colocando el siguiente serial en la siguiente ruta:
